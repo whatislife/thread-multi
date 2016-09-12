@@ -1,4 +1,4 @@
-package com.venustech.thread;
+package com.venustech.thread.procueconsumer;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

@@ -1,4 +1,4 @@
-package com.venustech.thread;
+package com.venustech.thread.procueconsumer;
 /**
  * 
  * 类说明.生产者
